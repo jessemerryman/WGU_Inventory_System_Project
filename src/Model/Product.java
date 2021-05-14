@@ -129,39 +129,4 @@ public class Product {
         this.max = max;
     }
 
-
-
-
-
-
-
-
-
-    /**
-     * associatedParts:ObservableList<Part>
-     * id : int
-     * name : String
-     * price : double
-     * stock : int
-     * min : int
-     * max : int
-     *  Product(id : int, name : String,
-     * rice : double, stock : int, min : int, max : int)
-     *  setId(id:int):void
-     *  setName(name:String):void
-     *  setPrice(price:double):void
-     *  setStock(stock:int):void
-     *  setMin(min:int):void
-     *  setMax(max:int):void
-     *  getId():int
-     *  getName():String
-     *  getPrice():double
-     *  getStock():int
-     *  getMin():int
-     *  getMax():int
-     *  addAssociatedPart(part:Part):void
-     *  deleteAssociatedPart(selectedAssociatedPart:Part):boolean
-     *  getAllAssociatedParts():ObservableList<Part>
-     */
-
 }
